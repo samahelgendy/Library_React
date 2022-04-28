@@ -3,7 +3,6 @@ import About from '../About/index';
 import Home from '../Home/index';
 import Portfilo from '../Portfilo/index';
 import Profile from '../Profile/index';
-// import SocialMedia from '../SocialMedia/index';
 import Work from '../Work/index'
 import Footer from '../Footer/index';
 import SocialMedia from '../SocialMedia/index'
